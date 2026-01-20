@@ -1,0 +1,21 @@
+# Archivos de Sistema y Temporales 
+# Ignora archivos de miniaturas y configuración de carpetas de Windows
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.tmp
+*.bak
+
+# --- RPG Maker XP / Pokemon Essentials ---
+# No subimos el ejecutable principal (cada uno tiene el suyo)
+Game.exe
+# Ignora la configuración local del editor
+Game.ini
+# Archivos de guardado (Save files) para que no se mezclen los progresos
+*.rxdata
+!Data/*.rxdata
+# Nota: La línea anterior le dice a Git: "Ignora todos los .rxdata, 
+# EXCEPTO los que están en la carpeta Data", que son tus mapas y scripts.
+
+# Logs de errores que genera el juego al cerrarse mal
+errorlog.txt
