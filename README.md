@@ -15,7 +15,7 @@ Tras graduarte en la **Escuela de Rangers**, te unes al **S.E.R. (Servicio Espec
 ## 👥 Equipo de Desarrollo 
 
 * **Johan (Johanito)** — Dirección, Scripting, Spriting y Composición.
-* **Carlos (Veronito)** — Mapeo, Soporte en Scripts y Beta Testing.
+* **Carlos (Veronito)** — Mapeo, Scripting y Beta Testing.
 * **Eduardo (Takas)** — Mapeo, Narrativa y Beta Testing.
 
 ---
