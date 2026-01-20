@@ -8,7 +8,7 @@
 ## 📖 Sinopsis
 > "El equilibrio no se encuentra, se construye."
 
-Tras graduarte en la **Escuela de Rangers**, te unes al **S.E.R. (Servicio Especial de Rangers)** para investigar una fuerza elemental que amenaza la estabilidad de la **Región de Aethel**. Tu misión es proteger el ecosistema y descubrir el misterio tras el *Primal Balance*.
+Tras graduarte en la **Escuela de Rangers**, te unes al **S.E.R. (Servicio Especial de Rangers)** para investigar una fuerza elemental que amenaza la estabilidad de la **Región de Aethel**. Tu misión es proteger el ecosistema, los ciudadanos y desentrañar el misterio de las fuerzas que sostienen este mundo.
 
 ---
 
